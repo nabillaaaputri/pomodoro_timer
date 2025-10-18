@@ -1,6 +1,6 @@
 # pomodoro_timer
 
-A new Flutter project.
+https://github.com/nabillaaaputri/pomodoro_timer/
 
 ## Getting Started
 
