@@ -1,6 +1,6 @@
 # pomodoro_timer
 
-https://github.com/nabillaaaputri/pomodoro_timer/
+https://nabillaaaputri.github.io/pomodoro_timer/
 
 ## Getting Started
 
